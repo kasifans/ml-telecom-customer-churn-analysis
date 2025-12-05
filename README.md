@@ -2,7 +2,7 @@ Telecom Customer Churn Prediction
 
 Author: Mohammad Kasif Ansari
 Project Type: DIY Machine Learning Project
-🎯 Goal: Predict whether a telecom customer will churn (leave) or stay using Machine Learning.
+ Goal: Predict whether a telecom customer will churn (leave) or stay using Machine Learning.
 
  Overview
 
